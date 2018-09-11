@@ -38,8 +38,7 @@
                     </tfooter>
                 </table>
                 <div>
-                    <a href="#" class="btn btn-danger">Retour à la boutique</a>
-                    <a href="{{ url('passer-commande') }}" class="btn btn-primary pull-right">Passez commande</a>
+                    <h1>API CYNETPAY</h1>
                 </div>
             </div>
 

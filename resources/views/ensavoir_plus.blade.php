@@ -1,5 +1,9 @@
 @extends('layouts.core')
 
+@section('title')
+    En savoir plus
+@stop
+
 @section('content')
     <div style="background-color: #00519e; margin-bottom: 15px;" class="px-3 py-3 pt-md-5 pb-md-4">
         <div class="container">
